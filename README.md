@@ -1,7 +1,7 @@
 
 <img src="https://github.com/user-attachments/assets/46b01e2d-0afb-4470-95c8-7eca4436bea4" alt="Image" height="300" width="100%"/>
 
-# Twitter Clone Project
+# Twit Master Project
   This project is a clone of Twitter, built as a full-stack web application. The backend is developed using Spring Boot (Java), and the frontend is implemented with React. The application supports core features like user authentication, posting tweets, liking tweets, and real-time updates. This project was developed as part of an online course where I worked under the guidance of an instructor. The course provided hands-on experience in building a full-stack application from scratch, covering both backend and frontend development.
 
 
